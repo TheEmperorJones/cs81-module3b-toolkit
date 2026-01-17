@@ -23,3 +23,8 @@ function isOdd(x) {
   else
     console.log("This number is either even or not a number.");
 }
+
+// multiply - this simple function asks for two numbers and then multiplies them
+function multiply(a,b) {
+  return a * b;
+}
