@@ -7,7 +7,7 @@
 
 - What logic challenged my thinking?
     - The biggest challenge was chunking bite size operations.  I had wanted to take the opportunity to do statistical operations like finding measures of central tendency, but this was too challenging at this stage.
-    - I also struggled to understand how to conveniently test the code.  After struggling to test via console and CLI, I eventually recalled the indx.html approach from Module 1, and created such a file in my VSCode explorer, modifying it to fit the use case, including renaming the reference *math.js* file and adjusting displayed text to aid a tester as to context.  This helped a lot--this is not logic per se, but process; but a process built on what came earlier in the course.  I feel this is a valuable referent as we proceed.
+    - I also struggled to understand how to conveniently test the code.  After struggling to test via console and CLI, I eventually recalled the index.html approach from Module 1, and created such a file in my VSCode explorer, modifying it to fit the use case, including renaming the reference *math.js* file and adjusting displayed text to aid a tester as to context.  This helped a lot--this is not logic per se, but process; but a process built on what came earlier in the course.  I feel this is a valuable referent as we proceed.
 
 - How might this kind of toolkit be used in the real world?
     - This type of toolkit would be valuable in any ongoing project.
