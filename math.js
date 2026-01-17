@@ -15,3 +15,11 @@ function isEven(x) {
   else
     console.log("This number is either odd or not a number.");
 }
+
+// isOdd - this simple function checks if a number is odd and confirms or refutes
+function isOdd(x) {
+  if (x % 2 != 0)
+    console.log("This number is odd");
+  else
+    console.log("This number is either even or not a number.");
+}
